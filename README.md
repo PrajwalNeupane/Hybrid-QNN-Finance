@@ -1,4 +1,4 @@
-# Hybrid Quantum-Classical Neural Network for Stock Prediction (HQNN-FSP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Hybrid-QNN-Finance/blob/main/notebooks/01_quantum_encoding.ipynb)
+# Hybrid Quantum-Classical Neural Network for Stock Prediction (HQNN-FSP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1AEPsaRdVnWaS_a9bELVf3rPc8MUt6qU2?usp=sharing])
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
